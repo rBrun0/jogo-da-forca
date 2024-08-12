@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.gameTitle{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.containerDoInput{
+    display: flex;
+    padding-left: 20px;
+}
+
+.containerDoInput .inputDoJogo{
+    outline: none;
+    width: 40px;
+    height: 40px;
+}
+
+.containerDoInput .botaoDoJogo{
+    outline: none;
+    width: 60px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.listaDeLetrasUsadas{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid white;
+    border-radius: 6px;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.palavraDoJogo{
+    margin-top: 100px;
+    min-width: 200px;
+    
+}

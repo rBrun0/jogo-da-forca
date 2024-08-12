@@ -1,0 +1,8 @@
+.corpoDoBoneco{
+    width: 6px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: 26%;
+    left: 58%;
+}

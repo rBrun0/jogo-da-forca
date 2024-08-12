@@ -1,0 +1,9 @@
+.hasteDaForca{
+    height: 200px;
+    width: 20px;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 23%;
+}

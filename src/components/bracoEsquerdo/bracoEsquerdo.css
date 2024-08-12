@@ -1,0 +1,9 @@
+.bracoEsquerdo{
+    width: 4px;
+    height: 40px;
+    background-color: white;
+    position: absolute;
+    left: 57%;
+    top: 30%;
+    transform: rotate(45deg);
+}

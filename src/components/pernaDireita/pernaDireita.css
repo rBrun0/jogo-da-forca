@@ -1,0 +1,9 @@
+.pernaDireita{
+    width: 4px;
+    height: 40px;
+    background-color: white;
+    position: absolute;
+    left: 59.1%;
+    top: 38.6%;
+    transform: rotate(-45deg);
+}

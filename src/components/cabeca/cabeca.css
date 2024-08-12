@@ -1,0 +1,9 @@
+.cabecaDoBoneco{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 57%;
+    top: 190px;
+}
